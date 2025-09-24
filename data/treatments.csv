@@ -1,0 +1,26 @@
+id,admission_id,treatment_type,cost
+1,1,Blood Pressure Meds,200.00
+2,2,Insulin Therapy,400.00
+3,3,Antibiotics,180.00
+4,4,Bronchodilators,150.00
+5,5,Clot-busting Drugs,1000.00
+6,6,Surgery,2000.00
+7,7,Angioplasty,5000.00
+8,8,Appendectomy,2500.00
+9,9,Chemotherapy,8000.00
+10,10,Antidepressants,300.00
+11,11,Blood Pressure Meds,220.00
+12,12,Painkillers,120.00
+13,13,Insulin Therapy,420.00
+14,14,Bronchodilators,200.00
+15,15,Joint Injections,600.00
+16,16,Clot-busting Drugs,1200.00
+17,17,Blood Pressure Meds,210.00
+18,18,Antivirals,900.00
+19,19,Antianxiety Meds,250.00
+20,20,Antibiotics,190.00
+21,21,Insulin Therapy,430.00
+22,22,Angioplasty,5200.00
+23,23,Oxygen Therapy,400.00
+24,24,Surgery,1800.00
+25,25,Antianxiety Meds,280.00
